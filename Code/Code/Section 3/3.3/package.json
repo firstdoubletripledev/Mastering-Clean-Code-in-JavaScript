@@ -1,0 +1,15 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "Practice project for npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitris Loukas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
